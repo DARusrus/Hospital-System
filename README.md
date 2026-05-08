@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C6AF7&center=true&vCenter=true&width=700&lines=.NET+8+%7C+ASP.NET+Core+Web+API;5+Modules+%7C+33+Endpoints+%7C+5+Entities;Clean+Architecture+%7C+Repository+Pattern;Docker+Ready+%7C+SQL+Server+2022)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ff6b8a&center=true&vCenter=true&width=700&lines=.NET+8+%7C+ASP.NET+Core+Web+API;5+Modules+%7C+33+Endpoints+%7C+5+Entities;Clean+Architecture+%7C+Repository+Pattern;Docker+Ready+%7C+SQL+Server+2022)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 <br/>
 
-![FluentValidation](https://img.shields.io/badge/FluentValidation-12.1.0-7C6AF7?style=flat-square&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-24243e?style=flat-square)
-![Endpoints](https://img.shields.io/badge/API_Endpoints-33-302b63?style=flat-square)
-![Entities](https://img.shields.io/badge/Entities-5-302b63?style=flat-square)
-![Source Files](https://img.shields.io/badge/Source_Files-64-302b63?style=flat-square)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-12.1.0-ff6b8a?style=flat-square&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-c0392b?style=flat-square)
+![Endpoints](https://img.shields.io/badge/API_Endpoints-33-ff6b8a?style=flat-square)
+![Entities](https://img.shields.io/badge/Entities-5-ff6b8a?style=flat-square)
+![Source Files](https://img.shields.io/badge/Source_Files-64-ff6b8a?style=flat-square)
 
 </div>
 
@@ -64,15 +64,15 @@ Designed for **hospital staff and administrators**, the system enforces strict d
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
-  'primaryColor': '#302b63',
+  'primaryColor': '#c0392b',
   'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#7C6AF7',
-  'lineColor': '#7C6AF7',
-  'secondaryColor': '#0f0c29',
-  'tertiaryColor': '#24243e',
-  'clusterBkg': '#24243e',
-  'clusterBorder': '#7C6AF7',
-  'edgeLabelBackground': '#302b63',
+  'primaryBorderColor': '#ff6b8a',
+  'lineColor': '#ff6b8a',
+  'secondaryColor': '#7b1a1a',
+  'tertiaryColor': '#3d0f0f',
+  'clusterBkg': '#3d0f0f',
+  'clusterBorder': '#ff6b8a',
+  'edgeLabelBackground': '#c0392b',
   'fontFamily': 'JetBrains Mono'
 }}}%%
 flowchart TB
@@ -137,14 +137,14 @@ flowchart TB
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
-  'primaryColor': '#302b63',
+  'primaryColor': '#c0392b',
   'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#7C6AF7',
-  'lineColor': '#7C6AF7',
-  'secondaryColor': '#0f0c29',
-  'tertiaryColor': '#24243e',
-  'activationBorderColor': '#7C6AF7',
-  'activationBkgColor': '#302b63',
+  'primaryBorderColor': '#ff6b8a',
+  'lineColor': '#ff6b8a',
+  'secondaryColor': '#7b1a1a',
+  'tertiaryColor': '#3d0f0f',
+  'activationBorderColor': '#ff6b8a',
+  'activationBkgColor': '#c0392b',
   'sequenceNumberColor': '#ffffff',
   'fontFamily': 'JetBrains Mono'
 }}}%%
@@ -183,12 +183,12 @@ sequenceDiagram
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
-  'primaryColor': '#302b63',
+  'primaryColor': '#c0392b',
   'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#7C6AF7',
-  'lineColor': '#7C6AF7',
-  'secondaryColor': '#0f0c29',
-  'tertiaryColor': '#24243e',
+  'primaryBorderColor': '#ff6b8a',
+  'lineColor': '#ff6b8a',
+  'secondaryColor': '#7b1a1a',
+  'tertiaryColor': '#3d0f0f',
   'fontFamily': 'JetBrains Mono'
 }}}%%
 erDiagram
@@ -273,7 +273,7 @@ erDiagram
 ![SQL Server](https://img.shields.io/badge/SQL_Server_2022-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![FluentValidation](https://img.shields.io/badge/FluentValidation-12.1.0-7C6AF7?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-12.1.0-ff6b8a?style=for-the-badge)
 ![Swashbuckle](https://img.shields.io/badge/Swashbuckle_Swagger-6.6.2-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-8.0.20-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
@@ -441,7 +441,7 @@ dotnet run
 
 **Built with ❤️ using .NET 8 · EF Core · SQL Server · Docker**
 
-[![MIT License](https://img.shields.io/badge/License-MIT-7C6AF7?style=flat-square)](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-ff6b8a?style=flat-square)](LICENSE)
 [![.NET 8](https://img.shields.io/badge/Made_with-.NET_8-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com)
 
 </div>
