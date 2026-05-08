@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=HospitalSystem&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Enterprise-grade%20Hospital%20Management%20REST%20API&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff6b8a,100:c0392b&height=200&section=header&text=HospitalSystem&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Enterprise-grade%20Hospital%20Management%20REST%20API&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -435,7 +435,7 @@ dotnet run
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff6b8a,100:c0392b&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
