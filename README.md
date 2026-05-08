@@ -183,12 +183,12 @@ sequenceDiagram
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
-  'primaryColor': '#c0392b',
-  'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#ff6b8a',
-  'lineColor': '#ff6b8a',
-  'secondaryColor': '#7b1a1a',
-  'tertiaryColor': '#3d0f0f',
+  'primaryColor': '#ffe4ef',
+  'primaryTextColor': '#5a1a2e',
+  'primaryBorderColor': '#f4a7c0',
+  'lineColor': '#e8849f',
+  'secondaryColor': '#fff0f5',
+  'tertiaryColor': '#ffffff',
   'fontFamily': 'JetBrains Mono'
 }}}%%
 erDiagram
