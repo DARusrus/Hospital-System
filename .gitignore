@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+obj/
+
+# Environment
+.env
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
